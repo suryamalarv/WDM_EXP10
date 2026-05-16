@@ -1,9 +1,11 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 15/5/2026
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### DATE: 16-05-2026
+### AIM: 
+To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
-
+RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. RapidMiner provides a GUI to design and execute analytical workflows. Those workflows are called “Processes” in RapidMiner and they consist of multiple “Operators”. Each operator performs a single task within the process, and the output of each operator forms the input of the next one. Alternatively, the engine can be called from other programs or used as an API. Individual functions can be called from the command line. RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts.
+    
 ### Procedure:
 1) ***Import Excel data***
     <p>a. Drag the "Read Excel" operator from the IO folder onto the process canvas.
@@ -26,9 +28,11 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
-   <img width="1073" height="887" alt="image" src="https://github.com/user-attachments/assets/b559d7df-2cc6-4660-b2ba-6bf07ad95863" />
- <img width="1220" height="928" alt="image" src="https://github.com/user-attachments/assets/c253a694-4954-4127-9c21-77364aa3c0a9" />
-<img width="1355" height="876" alt="image" src="https://github.com/user-attachments/assets/0413f50d-6bcd-4d62-9bba-29c822dfa899" />
+<img width="1427" height="897" alt="image" src="https://github.com/user-attachments/assets/808711a7-473e-4673-b243-547a15eff23c" />
+
+<img width="1217" height="927" alt="image" src="https://github.com/user-attachments/assets/ac63d8fb-ef34-4a4d-93db-60e3a3b1e24c" />
+
+<img width="1412" height="876" alt="image" src="https://github.com/user-attachments/assets/8a2b9dd8-2c4a-4996-9403-5623d2494922" />
 
 ### Result:
 Thus, sentimental analysis for the given data using Rapidminer is done successfully.
